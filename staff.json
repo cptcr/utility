@@ -1,0 +1,18 @@
+{
+    "position": {
+        "Head Developer": 0,
+        "Head Mod": 1,
+        "Moderator": 2,
+        "Nexus Developer": 3,
+        "Head Translator": 4,
+        "Translator": 5,
+        "Support": 6,
+        "Coding Helper JS": 7,
+        "Coding Helper PY": 8,
+        "Coding Helper C#": 9,
+        "Coding Helper HTML/CSS": 10,
+        "Coding Helper C++": 11,
+        "Hardware Helper": 12,
+        "Software Helper": 13
+    }
+}

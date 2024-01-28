@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2023-09-04T17:47:48.137Z",
+    "target": {
+      "username": "toowake",
+      "id": "931870926797160538"
+    },
+    "language": {
+      "name": "🇩🇪 Translator DE",
+      "id": "1146529413396168764"
+    },
+    "addedBy": {
+      "username": "toowake",
+      "id": "931870926797160538"
+    }
+  },
+  {
+    "timestamp": "2023-09-04T17:49:09.095Z",
+    "target": {
+      "username": "toowake",
+      "id": "931870926797160538"
+    },
+    "language": {
+      "name": "🇨🇳 Translator CHN (simplified)",
+      "id": "1146529453590196367"
+    },
+    "addedBy": {
+      "username": "toowake",
+      "id": "931870926797160538"
+    }
+  }
+]
